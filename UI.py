@@ -1,3 +1,4 @@
+import PyQt5
 from PyQt5 import uic, QtWidgets, QtCore 
 from PyQt5.QtWidgets import QWidget, QApplication
 import sys
